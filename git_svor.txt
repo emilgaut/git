@@ -17,6 +17,10 @@ svöe við sp 1
 	git diff
 	git checkout
 
+
+
+asdflæsfklækllæas
+
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
 	b) git diff --staged 
